@@ -1,2 +1,2 @@
-(https://octodex.github.com/images/yaktocat.png)
-[my fav img]
+[my fav img] (https://octodex.github.com/images/yaktocat.png)
+
